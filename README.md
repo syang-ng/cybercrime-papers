@@ -53,6 +53,11 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [Infrastructure] [Resident Evil: Understanding Residential IP Proxy as a Dark Service](https://iu.app.box.com/s/0vcerrduebdjx6bwabmq5w6nmtrn9isd)
 - [Search Engine] [Measuring and Analyzing Search Engine Poisoning of Linguistic Collisions](https://www.computer.org/csdl/proceedings-article/sp/2019/666000a432/19skfB2Yiys)
 
+### 2018
+
+- [ValueChain] [Tracking Ransomware End-to-end](https://research.google/pubs/pub46785.pdf)
+
+
 ### 2017
 
 - [Infrastructure] [Under the Shadow of Sunshine: Understanding and Detecting Bulletproof Hosting on Legitimate Service Provider Networks](https://www.informatics.indiana.edu/xw7/papers/alrwais2017under.pdf)
@@ -60,6 +65,13 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2016
 
 - [Spam] [SoK: Everyone Hates Robocalls: A Survey of Techniques against Telephone Spam](https://adamdoupe.com/publications/sok-everyone-hates-robocalls-oakland2016.pdf)
+- [Search Engine] [Seeking nonsense, looking for trouble: Efficient promotional-infection detection through semantic inconsistency search](http://homes.sice.indiana.edu/luyixing/bib/oakland16-nonsense.pdf)
+- [SMS] [Sending out an sms: Characterizing the security of the sms ecosystem with public gateways](https://lblue.us/papers/sms_eco-Reaves.pdf)
+
+
+### 2015
+
+- [URLSquatting] [Every second counts: Quantifying the negative externalities of cybercrime via typosquatting](http://faculty.sites.uci.edu/zhouli/files/2018/09/oakland15.pdf)
 
 ## NDSS
 
