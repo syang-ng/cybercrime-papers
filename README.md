@@ -51,6 +51,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [APT] [HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows](https://smomen2.people.uic.edu/publications/HOLMES.pdf)
 - [Phishing] [PhishFarm: A Scalable Framework for Measuring the Effectiveness of Evasion Techniques Against Browser Phishing Blacklists](https://adamdoupe.com/publications/phishfarm-oakland2019.pdf)
 - [Infrastructure] [Resident Evil: Understanding Residential IP Proxy as a Dark Service](https://iu.app.box.com/s/0vcerrduebdjx6bwabmq5w6nmtrn9isd)
+- [Search Engine] [Measuring and Analyzing Search Engine Poisoning of Linguistic Collisions](https://www.computer.org/csdl/proceedings-article/sp/2019/666000a432/19skfB2Yiys)
 
 ### 2017
 
