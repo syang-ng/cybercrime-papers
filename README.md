@@ -7,6 +7,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [IEEE Security and Privacy(S&P)](#sp)
 - [Network and Distributed System Security(NDSS)](#ndss)
 - [Symposium on Electronic Crime Research(eCrime)](#ecrime)
+- [IEEE European Symposium on Security and Privacy(EuroS&P)](#eurosp)
 - [ACM Conference on Computer and Communications Security(CCS)](#ccs)
 
 ## USENIX Security
@@ -28,7 +29,9 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [Cryptojacking] [Inadvertently making Cyber Criminals Rich: A Comprehensive Study of Cryptojacking Campaigns at Internet Scale](https://www.usenix.org/system/files/sec19-bijmans.pdf)
 
 ### 2018
+
 - [Dark Jargons] [Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
+- [] [Plug and prey? measuring the commoditization of cybercrime via online anonymous markets](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-van_wegberg.pdf)
 
 ## WWW
 
@@ -39,6 +42,10 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2019
 
 - [Cryptojacking] [Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild](https://nikita.ca/papers/outguard-www19.pdf)
+
+### 2018
+
+- [Spam] [Collective Classification of Spam Campaigners on Twitter: A Hierarchical Meta-Path Based Approach](https://arxiv.org/pdf/1802.04168)
 
 ## S&P
 
@@ -64,11 +71,32 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ### 2021
 
+- [Scam] [Understanding and Detecting International Revenue Share Fraud](https://www.ndss-symposium.org/wp-content/uploads/2021-051-paper.pdf)
 - [Cryptojacking] [MINOS*: A Lightweight Real-Time Cryptojacking Detection System](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_4C-4_24444_paper.pdf)
+- [Forensic] [C^2SR: Cybercrime Scene Reconstruction for Post-mortem Forensic Analysis](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7A-1_23128_paper.pdf)
 
 ### 2020
 
 - [Scam] [Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23071-paper.pdf)
+- [Botnet] [A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24161-paper.pdf)
+
+### 2019
+
+- [] [Cybercriminal Minds: An investigative study of cryptocurrency abuses in the Dark Web](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-1_Lee_paper.pdf)
+- [Botnet] [Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-2_Cetin_paper.pdf)
+- [Botnet] [Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf)
+
+### 2018
+
+- [blackhat SEO] [Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_07A-1_Wang_paper.pdf)
+
+### 2017
+
+- [Scam] [Dial One for Scam: A Large-Scale Analysis of Technical Support Scams](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03B-1_Miramirkhani_paper.pdf)
+
+### 2015
+
+- [Typosquatting] [Seven Months’ Worth of Mistakes: A Longitudinal Study of Typosquatting Abuse](https://www.ndss-symposium.org/wp-content/uploads/2017/09/01_3_1.pdf)
 
 ## eCrime
 
@@ -83,6 +111,12 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2018
 
 - [Phishing] [Inside a Phisher’s Mind: Understanding the Anti-phishing Ecosystem Through Phishing Kit Analysis](https://www.adamoest.com/ecrime2018_phishers_mind_oest.pdf)
+
+## EuroSP
+
+### 2017
+
+- [Scam] [SoK: Fraud in Telephony Networks](https://www.eurecom.fr/publication/5055/download/sec-publi-5055.pdf)
 
 ## CCS
 
