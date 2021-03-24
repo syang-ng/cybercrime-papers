@@ -142,6 +142,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2020
 
 - [Botnet] [Examining Mirai’s Battle over the Internet of Things](https://www.cyber-threat-intelligence.com/publications/CCS2020-iotbattle.pdf)
+- [Measurement] [Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China](https://www.researchgate.net/profile/Zhou_Li24/publication/345662211_Lies_in_the_Air_Characterizing_Fake-base-station_Spam_Ecosystem_in_China/links/5faa4436a6fdcc062425150b/Lies-in-the-Air-Characterizing-Fake-base-station-Spam-Ecosystem-in-China.pdf)
 
 ### 2019
 
@@ -152,3 +153,16 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 - [Cryptojacking] [How You Get Shot in the Back: A Systematical Study about Cryptojacking in the Real World](http://www.cs.ucr.edu/~zhiyunq/pub/ccs18_cryptojacking.pdf)
 - [Cryptojacking] [MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense](https://www.protasis.eu/m/filer_public/89/8d/898d87c1-98c4-4157-8bb7-b92a43bee26e/minesweeper_ccs18.pdf)
+
+
+### 2016
+
+- [Telephone] [Over-The-Top Bypass: Study of a Recent Telephony Fraud](http://library.usc.edu.ph/ACM/SIGSAC%202017/ccs/p1106.pdf)
+- [Phishing] [PhishEye: Live Monitoring of Sandboxed Phishing Kits](http://193.55.114.4/docs/ccs16_phisheye.pdf)
+
+### 2015
+
+
+- [Scam] [Drops for Stuff: An Analysis of Reshipping Mule Scams] (http://www.utdallas.edu/~shao/papers/hao_ccs15.pdf)
+- [Forensic] [The Dropper Effect: Insights into Malware Distribution with Downloader Graph Analytics](http://www.umiacs.umd.edu/~tdumitra/papers/CCS-2015.pdf)
+
