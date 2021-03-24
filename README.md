@@ -27,11 +27,17 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 - [Scam] [Users Really Do Answer Telephone Scams](https://www.usenix.org/system/files/sec19-tu.pdf)
 - [Cryptojacking] [Inadvertently making Cyber Criminals Rich: A Comprehensive Study of Cryptojacking Campaigns at Internet Scale](https://www.usenix.org/system/files/sec19-bijmans.pdf)
+- [Measurement] [Platforms in Everything: Analyzing Ground-Truth Data on the Anatomy and Economics of Bullet-Proof Hosting](https://www.usenix.org/system/files/sec19-noroozian.pdf)
 
 ### 2018
 
+- [Measurement] [Fear the Reaper: Characterization and Fast Detection of Card Skimmers](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-scaife.pdf)
 - [Dark Jargons] [Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
 - [Anonymous Markets] [Plug and prey? measuring the commoditization of cybercrime via online anonymous markets](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-van_wegberg.pdf)
+
+### 2015
+
+- [Social Engineering] [WebWitness: Investigating, Categorizing, and Mitigating Malware Download Paths](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-nelms.pdf)
 
 ## WWW
 
