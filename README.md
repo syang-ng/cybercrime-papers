@@ -93,17 +93,22 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [Scam] [Understanding and Detecting International Revenue Share Fraud](https://www.ndss-symposium.org/wp-content/uploads/2021-051-paper.pdf)
 - [Cryptojacking] [MINOS*: A Lightweight Real-Time Cryptojacking Detection System](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_4C-4_24444_paper.pdf)
 - [Forensic] [C^2SR: Cybercrime Scene Reconstruction for Post-mortem Forensic Analysis](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7A-1_23128_paper.pdf)
+- [Ad Fraud] [The Abuser Inside Apps: Finding the Culprit Committing Mobile Ad Fraud](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3B-1_23161_paper-1.pdf)
+- [CyberBulling] [Towards Understanding and Detecting Cyberbullying in Real-world Images](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-4_24260_paper.pdf)
 
 ### 2020
 
 - [Scam] [Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23071-paper.pdf)
 - [Botnet] [A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24161-paper.pdf)
+- [Fraud] [Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals]
 
 ### 2019
 
 - [Dark Web] [Cybercriminal Minds: An investigative study of cryptocurrency abuses in the Dark Web](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-1_Lee_paper.pdf)
 - [Botnet] [Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-2_Cetin_paper.pdf)
 - [Botnet] [Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf)
+- [Measurement] [Cracking the Wall of Confinement: Understanding and Analyzing Malicious Domain Take-downs](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-1_Alowaisheq_paper.pdf)
+
 
 ### 2018
 
@@ -112,10 +117,18 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2017
 
 - [Scam] [Dial One for Scam: A Large-Scale Analysis of Technical Support Scams](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03B-1_Miramirkhani_paper.pdf)
+- [Fake Base Station] [FBS-Radar: Uncovering Fake Base Stations at Scale in the Wild](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_08-3_Li_paper.pdf)
+
+### 2016
+
+- [Measurement] [It’s Free for a Reason: Exploring the Ecosystem of Free Live Streaming Services](https://www.ndss-symposium.org/wp-content/uploads/2017/09/free-reason-exploring-ecosystem-free-live-streaming-services.pdf)
 
 ### 2015
 
 - [Typosquatting] [Seven Months’ Worth of Mistakes: A Longitudinal Study of Typosquatting Abuse](https://www.ndss-symposium.org/wp-content/uploads/2017/09/01_3_1.pdf)
+- [Measurement] [Parking Sensors: Analyzing and Detecting Parked Domains](https://www.ndss-symposium.org/wp-content/uploads/2017/09/01_2_2.pdf)
+- [Telephone] [Phoneypot: Data-driven Understanding of Telephony Threats](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_2_3.pdf)
+
 
 ## eCrime
 
@@ -142,7 +155,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2020
 
 - [Botnet] [Examining Mirai’s Battle over the Internet of Things](https://www.cyber-threat-intelligence.com/publications/CCS2020-iotbattle.pdf)
-- [Measurement] [Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China](https://www.researchgate.net/profile/Zhou_Li24/publication/345662211_Lies_in_the_Air_Characterizing_Fake-base-station_Spam_Ecosystem_in_China/links/5faa4436a6fdcc062425150b/Lies-in-the-Air-Characterizing-Fake-base-station-Spam-Ecosystem-in-China.pdf)
+- [Fake Base Station] [Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China](https://www.researchgate.net/profile/Zhou_Li24/publication/345662211_Lies_in_the_Air_Characterizing_Fake-base-station_Spam_Ecosystem_in_China/links/5faa4436a6fdcc062425150b/Lies-in-the-Air-Characterizing-Fake-base-station-Spam-Ecosystem-in-China.pdf)
 
 ### 2019
 
