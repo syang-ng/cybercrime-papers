@@ -31,7 +31,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2018
 
 - [Dark Jargons] [Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
-- [] [Plug and prey? measuring the commoditization of cybercrime via online anonymous markets](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-van_wegberg.pdf)
+- [Anonymous Markets] [Plug and prey? measuring the commoditization of cybercrime via online anonymous markets](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-van_wegberg.pdf)
 
 ## WWW
 
@@ -62,7 +62,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ### 2018
 
-- [ValueChain] [Tracking Ransomware End-to-end](https://research.google/pubs/pub46785.pdf)
+- [Value Chain] [Tracking Ransomware End-to-end](https://research.google/pubs/pub46785.pdf)
 
 
 ### 2017
@@ -78,7 +78,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ### 2015
 
-- [URLSquatting] [Every second counts: Quantifying the negative externalities of cybercrime via typosquatting](http://faculty.sites.uci.edu/zhouli/files/2018/09/oakland15.pdf)
+- [Typosquatting] [Every second counts: Quantifying the negative externalities of cybercrime via typosquatting](http://faculty.sites.uci.edu/zhouli/files/2018/09/oakland15.pdf)
 
 ## NDSS
 
@@ -95,7 +95,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ### 2019
 
-- [] [Cybercriminal Minds: An investigative study of cryptocurrency abuses in the Dark Web](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-1_Lee_paper.pdf)
+- [Dark Web] [Cybercriminal Minds: An investigative study of cryptocurrency abuses in the Dark Web](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-1_Lee_paper.pdf)
 - [Botnet] [Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-2_Cetin_paper.pdf)
 - [Botnet] [Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf)
 
