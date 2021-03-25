@@ -34,6 +34,10 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [Dark Jargons] [Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
 - [Anonymous Markets] [Plug and prey? measuring the commoditization of cybercrime via online anonymous markets](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-van_wegberg.pdf)
 
+### 2016
+
+- [Blackhat SEO] [The Ever-Changing Labyrinth: A Large-Scale Analysis of Wildcard DNS Powered Blackhat SEO](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_du.pdf)
+
 ### 2015
 
 - [Social Engineering] [WebWitness: Investigating, Categorizing, and Mitigating Malware Download Paths](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-nelms.pdf)
@@ -71,12 +75,13 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ### 2017
 
+- [Dark Jargons] [How to learn klingon without a dictionary: Detection and measurement of black keywords used by the underground economy](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/5/764/files/2018/09/oakland17.pdf)
 - [Infrastructure] [Under the Shadow of Sunshine: Understanding and Detecting Bulletproof Hosting on Legitimate Service Provider Networks](https://www.informatics.indiana.edu/xw7/papers/alrwais2017under.pdf)
 
 ### 2016
 
 - [Spam] [SoK: Everyone Hates Robocalls: A Survey of Techniques against Telephone Spam](https://adamdoupe.com/publications/sok-everyone-hates-robocalls-oakland2016.pdf)
-- [Search Engine] [Seeking nonsense, looking for trouble: Efficient promotional-infection detection through semantic inconsistency search](http://homes.sice.indiana.edu/luyixing/bib/oakland16-nonsense.pdf)
+- [Blackhat SEO]] [Seeking nonsense, looking for trouble: Efficient promotional-infection detection through semantic inconsistency search](http://homes.sice.indiana.edu/luyixing/bib/oakland16-nonsense.pdf)
 - [SMS] [Sending out an sms: Characterizing the security of the sms ecosystem with public gateways](https://lblue.us/papers/sms_eco-Reaves.pdf)
 
 ### 2015
