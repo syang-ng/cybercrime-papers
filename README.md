@@ -100,7 +100,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 - [Scam] [Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23071-paper.pdf)
 - [Botnet] [A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24161-paper.pdf)
-- [Fraud] [Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals]
+- [Fraud] [Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals](https://par.nsf.gov/servlets/purl/10172752)
 
 ### 2019
 
@@ -172,10 +172,11 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 - [Telephone] [Over-The-Top Bypass: Study of a Recent Telephony Fraud](http://library.usc.edu.ph/ACM/SIGSAC%202017/ccs/p1106.pdf)
 - [Phishing] [PhishEye: Live Monitoring of Sandboxed Phishing Kits](http://193.55.114.4/docs/ccs16_phisheye.pdf)
+- [Threat Intelligence] [Acing the ioc game: Toward automatic discovery and analysis of open-source cyber threat intelligence](https://iisp.gatech.edu/sites/default/files/documents/acing_ioc_-_ccs16.pdf)
 
 ### 2015
 
 
-- [Scam] [Drops for Stuff: An Analysis of Reshipping Mule Scams] (http://www.utdallas.edu/~shao/papers/hao_ccs15.pdf)
+- [Scam] [Drops for Stuff: An Analysis of Reshipping Mule Scams](http://www.utdallas.edu/~shao/papers/hao_ccs15.pdf)
 - [Forensic] [The Dropper Effect: Insights into Malware Distribution with Downloader Graph Analytics](http://www.umiacs.umd.edu/~tdumitra/papers/CCS-2015.pdf)
 
