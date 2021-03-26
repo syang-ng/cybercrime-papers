@@ -14,6 +14,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ### 2021
 
+- [Phishing] [Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages](http://linyun.info/publications/usenix21.pdf)
 - [Attacks on dApps] [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf)
 
 ### 2020
