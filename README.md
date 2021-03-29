@@ -52,6 +52,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2019
 
 - [Cryptojacking] [Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild](https://nikita.ca/papers/outguard-www19.pdf)
+- [Phishing] [Doppelgängers on the Dark Web: A Large-scale Assessment on Phishing Hidden Web Services](http://nss.kaist.ac.kr/papers/yoon-www2019.pdf)
 
 ### 2018
 
@@ -82,7 +83,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2016
 
 - [Spam] [SoK: Everyone Hates Robocalls: A Survey of Techniques against Telephone Spam](https://adamdoupe.com/publications/sok-everyone-hates-robocalls-oakland2016.pdf)
-- [Blackhat SEO]] [Seeking nonsense, looking for trouble: Efficient promotional-infection detection through semantic inconsistency search](http://homes.sice.indiana.edu/luyixing/bib/oakland16-nonsense.pdf)
+- [Blackhat SEO] [Seeking nonsense, looking for trouble: Efficient promotional-infection detection through semantic inconsistency search](http://homes.sice.indiana.edu/luyixing/bib/oakland16-nonsense.pdf)
 - [SMS] [Sending out an sms: Characterizing the security of the sms ecosystem with public gateways](https://lblue.us/papers/sms_eco-Reaves.pdf)
 
 ### 2015
@@ -103,7 +104,6 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 - [Fraud] [Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23071-paper.pdf)
 - [Botnet] [A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24161-paper.pdf)
-- [Fraud] [Into the Deep Web: Understanding E-commerce Fraud from Autonomous Chat with Cybercriminals](https://par.nsf.gov/servlets/purl/10172752)
 
 ### 2019
 
@@ -169,6 +169,10 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 - [Cryptojacking] [How You Get Shot in the Back: A Systematical Study about Cryptojacking in the Real World](http://www.cs.ucr.edu/~zhiyunq/pub/ccs18_cryptojacking.pdf)
 - [Cryptojacking] [MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense](https://www.protasis.eu/m/filer_public/89/8d/898d87c1-98c4-4157-8bb7-b92a43bee26e/minesweeper_ccs18.pdf)
+
+### 2017
+
+- [Underground Ecosystem] [Data Breaches, Phishing, or Malware?: Understanding the Risks of Stolen Credentials](https://research.google.com/pubs/archive/46437.pdf)
 
 ### 2016
 
