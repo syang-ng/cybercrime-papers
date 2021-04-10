@@ -156,9 +156,10 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2020
 
 - [Botnet] [Examining Mirai’s Battle over the Internet of Things](https://www.cyber-threat-intelligence.com/publications/CCS2020-iotbattle.pdf)
+- [Phishing] [VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity](https://arxiv.org/abs/1909.00300)
 - [Spam] [Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China](https://faculty.sites.uci.edu/zhouli/files/2020/09/ccs20.pdf)
-- [Infrastructure] [Impersonation-as-a-Service: Characterizing the Emerging Criminal Infrastructure for User Impersonation at Scale](https://arxiv.org/pdf/2009.04344.pdf)
 - [APT] [Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System](https://dl.acm.org/doi/10.1145/3372297.3423355)
+- [Infrastructure] [Impersonation-as-a-Service: Characterizing the Emerging Criminal Infrastructure for User Impersonation at Scale](https://arxiv.org/pdf/2009.04344.pdf)
 
 ### 2019
 
