@@ -82,6 +82,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ### 2018
 
+- [Scam] [Surveylance: Automatically Detecting Online Survey Scams](https://kharraz.org/publications/oakland-2018-surveylance.pdf)
 - [Value Chain] [Tracking Ransomware End-to-end](https://research.google/pubs/pub46785.pdf)
 
 ### 2017
