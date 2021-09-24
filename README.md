@@ -173,6 +173,12 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ## CCS
 
+### 2021
+
+- [Fraud] [Dissecting Click Fraud Autonomy in the Wild](https://arxiv.org/abs/2105.11103)
+- [Fraud] [Understanding and Detecting Mobile Ad Fraud Through the Lens of Invalid Traffic]()
+- [Phishing] [Catching Transparent Phish: Analyzing and Detecting MITM Phishing Toolkits](https://securitee.org/files/transparent-phish_ccs2021.pdf)
+
 ### 2020
 
 - [Botnet] [Examining Mirai’s Battle over the Internet of Things](https://www.cyber-threat-intelligence.com/publications/CCS2020-iotbattle.pdf)
