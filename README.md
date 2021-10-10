@@ -40,6 +40,10 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [Dark Jargons] [Reading Thieves' Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
 - [Anonymous Markets] [Plug and prey? measuring the commoditization of cybercrime via online anonymous markets](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-van_wegberg.pdf)
 
+### 2018
+
+- [Botnet] [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf)
+
 ### 2016
 
 - [Blackhat SEO] [The Ever-Changing Labyrinth: A Large-Scale Analysis of Wildcard DNS Powered Blackhat SEO](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_du.pdf)
