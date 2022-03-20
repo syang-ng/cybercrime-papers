@@ -18,8 +18,6 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [Phishing] [Assessing Browser-level Defense against IDN-based Phishing](https://www.usenix.org/system/files/sec21summer_hu-hang.pdf)
 - [Phishing] [Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages](http://linyun.info/publications/usenix21.pdf)
 - [Blackhat SEO] [Scalable Detection of Promotional Website Defacements in Black Hat SEO Campaigns](https://www.usenix.org/system/files/sec21fall-yang-ronghai.pdf)
-- [Attacks on dApps] [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf)
-
 
 ### 2020
 
@@ -73,6 +71,11 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ## S&P
 
+### 2022
+
+- [Scam] [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/oakland22-gambling_scam_apps.pdf)
+- [Phishing] [Phishing in Organizations: Findings from a Large-Scale and Long-Term Study](https://arxiv.org/pdf/2112.07498.pdf)
+
 ### 2021
 
 - [Phishing] [CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing](https://adamdoupe.com/publications/crawlphish-oakland21.pdf)
@@ -115,6 +118,11 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 - [Phishing] [Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild](https://people.cs.vt.edu/danfeng/papers/Phishing-IMC-2018.pdf)
 
 ## NDSS
+
+### 2022
+
+- [Blackhat SEO] [Demystifying Local Business Search Poisoning for Illicit Drug Promotion](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/ndss2022_search_poisoning.pdf)
+- [Cryptojacking] [A Lightweight IoT Cryptojacking Detection Mechanism in Heterogeneous Smart Home Networks]
 
 ### 2021
 
@@ -180,7 +188,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2021
 
 - [Fraud] [Dissecting Click Fraud Autonomy in the Wild](https://arxiv.org/abs/2105.11103)
-- [Fraud] [Understanding and Detecting Mobile Ad Fraud Through the Lens of Invalid Traffic]()
+- [Fraud] [Understanding and Detecting Mobile Ad Fraud Through the Lens of Invalid Traffic](https://nsec.sjtu.edu.cn/publications/2021/ACMCCS_2021_ssb.pdf)
 - [Phishing] [Catching Transparent Phish: Analyzing and Detecting MITM Phishing Toolkits](https://securitee.org/files/transparent-phish_ccs2021.pdf)
 
 ### 2020
