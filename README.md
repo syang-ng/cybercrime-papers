@@ -13,6 +13,11 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ## USENIX Security
 
+### 2022
+
+- [Phishing] [Phish in Sheep's Clothing: Exploring the Authentication Pitfalls of Browser Fingerprinting](https://www.usenix.org/system/files/sec22-lin-xu.pdf)
+- [Phishing] [Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach](https://www.usenix.org/system/files/sec22-liu-ruofan.pdf)
+
 ### 2021
 
 - [Phishing] [Assessing Browser-level Defense against IDN-based Phishing](https://www.usenix.org/system/files/sec21summer_hu-hang.pdf)
