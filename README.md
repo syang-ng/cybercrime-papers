@@ -114,6 +114,10 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ## IMC
 
+### 2022
+
+- [Phishing] [PhishInPatterns: measuring elicited user interactions at scale on phishing websites](https://dl.acm.org/doi/abs/10.1145/3517745.3561467)
+
 ### 2020
 
 - [Phishing] [Are You Human?: Resilience of Phishing Detection to Evasion Techniques Based on Human Verification](https://mkorczynski.com/IMC2020.pdf)
