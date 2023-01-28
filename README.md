@@ -128,6 +128,10 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ## NDSS
 
+### 2023
+
+- [Scam] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/paper/ndss23-fall-final584.pdf)
+
 ### 2022
 
 - [Blackhat SEO] [Demystifying Local Business Search Poisoning for Illicit Drug Promotion](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/ndss2022_search_poisoning.pdf)
