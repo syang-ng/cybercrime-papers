@@ -201,6 +201,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2022
 
 - [Spam] [Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam](https://arxiv.org/pdf/2204.01233.pdf)
+- [Phishing] [Phishing URL Detection: A Network-based Approach Robust to Evasion](https://arxiv.org/pdf/2209.01454.pdf)
 - [Phishing] [I’m SPARTACUS, No, I’m SPARTACUS: Proactively Protecting Users From Phishing by Intentionally Triggering Cloaking Behavior](https://www.zhibosun.me/assets/publication/ccs/spartacus.pdf)
 - [Financial Relations] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://arxiv.org/pdf/2206.00375.pdf)
 
