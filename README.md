@@ -1,15 +1,15 @@
 # Academic Cybercrime Papers
-Recent academic papers related to cybercrime. All papers are sorted based on the conference name and published year. Welcome to add more published paper to this list.
+Recent academic papers related to cybercrime. All papers are sorted based on the conference name and published year. Welcome to add more published papers to this list.
 
 ## Table of Listed Conferences
 - [USENIX Security](#usenix-security)
-- [The Web Conference(WWW)](#www)
-- [IEEE Security and Privacy(S&P)](#sp)
-- [ACM Internet Measurement Conference(IMC)](#imc)
-- [Network and Distributed System Security(NDSS)](#ndss)
-- [Symposium on Electronic Crime Research(eCrime)](#ecrime)
-- [IEEE European Symposium on Security and Privacy(EuroS&P)](#eurosp)
-- [ACM Conference on Computer and Communications Security(CCS)](#ccs)
+- [The Web Conference (WWW)](#www)
+- [IEEE Security and Privacy (S&P)](#sp)
+- [ACM Internet Measurement Conference (IMC)](#imc)
+- [Network and Distributed System Security (NDSS)](#ndss)
+- [Symposium on Electronic Crime Research (eCrime)](#ecrime)
+- [IEEE European Symposium on Security and Privacy (EuroS&P)](#eurosp)
+- [ACM Conference on Computer and Communications Security (CCS)](#ccs)
 
 ## USENIX Security
 
