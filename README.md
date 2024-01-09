@@ -135,7 +135,7 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 ### 2022
 
 - [Blackhat SEO] [Demystifying Local Business Search Poisoning for Illicit Drug Promotion](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/ndss2022_search_poisoning.pdf)
-- [Cryptojacking] [A Lightweight IoT Cryptojacking Detection Mechanism in Heterogeneous Smart Home Networks]
+- [Cryptojacking] [A Lightweight IoT Cryptojacking Detection Mechanism in Heterogeneous Smart Home Networks](https://www.ndss-symposium.org/wp-content/uploads/2022-208-paper.pdf)
 
 ### 2021
 
