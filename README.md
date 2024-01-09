@@ -198,6 +198,13 @@ Recent academic papers related to cybercrime. All papers are sorted based on the
 
 ## CCS
 
+### 2023
+
+- [Abusing] [Understanding and Detecting Abused Image Hosting Modules as Malicious Services](https://ghong.site/papers/ccs23b-imagehosting.pdf)
+- [Cryptojacking] [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild](https://ghong.site/papers/ccs23a-pool.pdf)
+- [Phishing] [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://yajin.org/papers/ccs23_phishing.pdf)
+- [Phishing] [A Good Fishman Knows All the Angles: A Critical Evaluation of Google's Phishing Page Classifier](https://dl.acm.org/doi/pdf/10.1145/3576915.3623199)
+
 ### 2022
 
 - [Spam] [Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam](https://arxiv.org/pdf/2204.01233.pdf)
